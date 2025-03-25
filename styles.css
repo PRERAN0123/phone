@@ -24,6 +24,7 @@ body{
   display: none;  
 }
 #output{
+  overflow: scroll;
   height:80%;
   width: 100%;
   background-color: aliceblue;
